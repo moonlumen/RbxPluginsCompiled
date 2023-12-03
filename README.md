@@ -9,3 +9,6 @@ TGE is licensed under the MIT License, which is redistributable. TGE is [open so
 
 ## VMF Importer
 VMF Importer is licensed under the MIT License, which is redistributable. VMF Importer is [open source](https://github.com/MaximumADHD/Roblox-Plugins/tree/main)
+
+# Disclaimer
+These plugins have been directly compiled using Rojo 7.0 without modification. No code has been changed or tampered with.
