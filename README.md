@@ -7,6 +7,9 @@ Compiled paid plugins
 ## Tool Grip Editor
 TGE is licensed under the MIT License, which is redistributable. TGE is [open source](https://github.com/MaximumADHD/Roblox-Plugins/tree/main)
 
+## Team Create Hats
+TCH is unlicensed, but is [open source](https://github.com/prepsure/team-create-hats/). The file is taken from the releases page.
+
 ## VMF Importer
 VMF Importer is licensed under the MIT License, which is redistributable. VMF Importer is [open source](https://github.com/MaximumADHD/Roblox-Plugins/tree/main)
 
