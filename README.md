@@ -1,6 +1,7 @@
 Compiled paid plugins
 
 # Installation
+Download the plugin you want, and drag it into %LocalAppData%\Roblox\Plugins
 ![installation](https://github.com/moonlumen/RbxPluginsCompiled/blob/main/installation.png)
 
 # Legality, Credits
